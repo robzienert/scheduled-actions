@@ -15,7 +15,7 @@
  */
 
 dependencies {
-    compile "com.netflix.fenzo:fenzo-triggers:0.7.8"
+    compile "com.netflix.fenzo:fenzo-triggers:0.11.7"
     compile spinnaker.dependency('rxJava')
     spinnaker.group('jackson')
 }
